@@ -1,2 +1,2 @@
-# DIO-modulo-III
-Curso de full-stack da digital inovation one de java script
+# Fundamentos do flex box parte I
+## Aprendendo como ultilizar os modelos de flex box! 🤙
