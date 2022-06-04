@@ -1,0 +1,79 @@
+#soma{
+    border: 2px solid black;
+    font-size: 24px;
+    margin: 10px;
+    padding: 10px;
+}
+body{
+    margin: 10px;
+}
+.opcoes{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    background: aqua;
+    max-width: 200px;
+    margin: auto;
+    
+}
+#subtracao{
+    border: 2px solid black;
+    font-size: 24px;
+    margin: 10px;
+    padding: 10px;
+}
+#multiplicacao{
+    border: 2px solid black;
+    font-size: 24px;
+    margin: 10px;
+    padding: 10px;
+}
+#divisao{
+    border: 2px solid black;
+    font-size: 24px;
+    margin: 10px;
+    padding: 10px;
+}
+#potenciacao{
+    border: 2px solid black;
+    font-size: 24px;
+    margin: 10px;
+    padding: 10px;
+}
+.operacao{
+    display: flex;
+    margin: auto;
+    padding: 100px;
+    max-width: auto;
+    background: lightgrey;
+    border: 2px solid black;
+    height: auto;
+    align-content: space-around;
+    align-items: center;
+    justify-content: center;
+}
+input{
+    margin: 10px;
+    height: 50px;
+    width: 100px;
+}
+h1{
+    display: flex;
+    font-size: 50px;
+    align-items: center;
+    justify-content: center;
+}
+#send{
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+}
+#resultado{
+    display: flex;
+    font-size: 100px;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
